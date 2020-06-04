@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK8/Contents/Home" version="1.8.0_60">
+<bootpath>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK8/Contents/Home/jre/lib/resources.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK8/Contents/Home/jre/lib/rt.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK8/Contents/Home/jre/lib/sunrsasign.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK8/Contents/Home/jre/lib/jsse.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK8/Contents/Home/jre/lib/jce.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK8/Contents/Home/jre/lib/charsets.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK8/Contents/Home/jre/lib/jfr.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK8/Contents/Home/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/Users/bhmani/Library/Java/Extensions"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK8/Contents/Home/jre/lib/ext"/>
+<entry path="/Library/Java/Extensions"/>
+<entry path="/Network/Library/Java/Extensions"/>
+<entry path="/System/Library/Java/Extensions"/>
+<entry path="/usr/lib/java"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK8/Contents/Home/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home" version="1.8.0_231">
+<bootpath>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/jre/lib/resources.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/jre/lib/rt.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/jre/lib/sunrsasign.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/jre/lib/jsse.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/jre/lib/jce.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/jre/lib/charsets.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/jre/lib/jfr.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/Users/bhmani/Library/Java/Extensions"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/jre/lib/ext"/>
+<entry path="/Library/Java/Extensions"/>
+<entry path="/Network/Library/Java/Extensions"/>
+<entry path="/System/Library/Java/Extensions"/>
+<entry path="/usr/lib/java"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK7/Contents/Home" version="1.7.0_45">
+<bootpath>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK7/Contents/Home/jre/lib/resources.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK7/Contents/Home/jre/lib/rt.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK7/Contents/Home/jre/lib/sunrsasign.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK7/Contents/Home/jre/lib/jsse.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK7/Contents/Home/jre/lib/jce.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK7/Contents/Home/jre/lib/charsets.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK7/Contents/Home/jre/lib/jfr.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK7/Contents/Home/jre/lib/JObjC.jar"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK7/Contents/Home/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/Users/bhmani/Library/Java/Extensions"/>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK7/Contents/Home/jre/lib/ext"/>
+<entry path="/Library/Java/Extensions"/>
+<entry path="/Network/Library/Java/Extensions"/>
+<entry path="/System/Library/Java/Extensions"/>
+<entry path="/usr/lib/java"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/private/var/folders/0g/fw2ry_ps04q63vx2m4t6l__83kg7p_/T/AppTranslocation/8908C1E7-DBF2-4AFE-B3DA-795B3F1A571C/d/Eclipse.app/Contents/Eclipse/OracleJDK7/Contents/Home/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
