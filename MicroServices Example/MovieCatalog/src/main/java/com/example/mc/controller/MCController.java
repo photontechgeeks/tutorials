@@ -21,6 +21,8 @@ import com.example.mc.model.Rating;
 import com.example.mc.model.Movie;
 import com.example.mc.model.User;
 import com.example.mc.service.MCService;
+import com.example.mc.service.MovieInfo;
+import com.example.mc.service.RatingInfo;
 
 @RestController
 @RequestMapping("/catalog")
@@ -29,8 +31,12 @@ public class MCController {
   @Autowired
   private MCService mcService;
   
+  
   @Autowired
-  private RestTemplate restTemplate;
+  private MovieInfo movieInfo;
+  
+  @Autowired
+  private RatingInfo ratingInfo;
   
   
   @PostMapping(value="/createUser", consumes="application/json")
@@ -41,15 +47,13 @@ public class MCController {
   
   @GetMapping(value="/{userId}")
   public List<CatalogItem> getCatalog(@PathVariable("userId") String userId){
-    ResponseEntity<Rating[]> ratings = restTemplate.getForEntity("http://localhost:8082/ratings/getRating", Rating[].class);
+    //CHECK BELOW METHOD FOR FAULT TOLERANCE/RESILIENCE
+    ResponseEntity<Rating[]> ratings = ratingInfo.getRating();
     Rating[] rating = ratings.getBody();
     List<Rating> rlist = Arrays.asList(rating);
     List<Rating> ulist = rlist.stream().filter(x -> userId.equals(String.valueOf(x.getUserId()))).collect(Collectors.toList());
     
-    return ulist.stream().map(y -> {
-      Movie movie = restTemplate.getForObject("http://localhost:8081/movies/"+y.getMovieId(), Movie.class);
-      return new CatalogItem(movie.getName(), movie.getReleaseYear(), y.getRating()); 
-    }).collect(Collectors.toList());
+    return ulist.stream().map(y -> movieInfo.getCatalogItem(y)).collect(Collectors.toList());
    
   }
 
