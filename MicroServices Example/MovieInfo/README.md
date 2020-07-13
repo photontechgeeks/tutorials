@@ -1,1 +1,1 @@
-Sample application for creating REST services using Spring Boot.
+Sample microservices application.
